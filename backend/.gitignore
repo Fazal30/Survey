@@ -1,0 +1,7 @@
+node_modules
+logs
+.env
+.nyc_output
+coverage
+public
+tempUpload
